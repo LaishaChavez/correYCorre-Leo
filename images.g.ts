@@ -3,44 +3,6 @@ namespace myImages {
 
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {
-            case "image1":
-            case "Pebble":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-f f . . f f f f f f f f f f f f 
-f 6 f . f 6 6 6 6 6 6 f 6 f 6 f 
-f 6 6 f f 6 6 6 2 6 6 6 6 6 6 f 
-. f 6 6 f 6 6 4 5 3 5 6 5 6 5 f 
-. . f 6 f 6 6 6 9 6 5 5 5 5 5 f 
-. . . f f f f f f f f f f f f f 
-. . . . . 6 6 . 6 6 . 6 6 . 6 6 
-. . . . . 6 6 . 6 6 . 6 6 . 6 6 
-. . . . . 6 6 . 6 6 . 6 6 . 6 6 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "image3":
-            case "Pebble1":return img`
-. . . . . f f f f f f f . . . . 
-. . . . . f 6 6 6 6 6 f . . . . 
-. f f f f f f f f f f f f f f f 
-. f 6 6 f 6 6 6 6 6 6 6 f 6 6 f 
-. f 6 6 f 6 6 6 6 6 6 6 f 6 6 f 
-. f 6 6 f 6 f 6 6 6 f 6 f 6 6 f 
-. f 6 6 f 6 6 6 6 6 6 6 f 6 6 f 
-. f 6 6 f 6 5 6 5 6 5 6 f 6 6 f 
-. f f f f 6 5 5 5 5 5 6 f f f f 
-. . . f 6 6 6 6 6 6 6 6 6 f . . 
-. . . f 6 6 6 6 6 6 6 6 6 f . . 
-. . . f f f f f f f f f f f f . 
-. . . f f 6 f f 6 f 6 f f 6 f . 
-. . . f f 6 f f 6 f 6 f f 6 f . 
-. . . f f f f f f f f f f f f . 
-. . . . . . . . . . . . . . . . 
-`;
             case "image2":
             case "Pebble0":return img`
 . . . . . . . . . . . . . . . . 
@@ -77,6 +39,44 @@ f f f f f f f f f f f f f . . .
 . . . . f 6 f f 6 f f 6 f f 6 f 
 . . . . f 6 f f 6 f f 6 f f 6 f 
 . . . . f f f f f f f f f f f f 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image3":
+            case "PebbleIdle":return img`
+. . . . . f f f f f f f . . . . 
+. . . . . f 6 6 6 6 6 f . . . . 
+. f f f f f f f f f f f f f f f 
+. f 6 6 f 6 6 6 6 6 6 6 f 6 6 f 
+. f 6 6 f 6 6 6 6 6 6 6 f 6 6 f 
+. f 6 6 f 6 f 6 6 6 f 6 f 6 6 f 
+. f 6 6 f 6 6 6 6 6 6 6 f 6 6 f 
+. f 6 6 f 6 5 6 5 6 5 6 f 6 6 f 
+. f f f f 6 5 5 5 5 5 6 f f f f 
+. . . f 6 6 6 6 6 6 6 6 6 f . . 
+. . . f 6 6 6 6 6 6 6 6 6 f . . 
+. . . f f f f f f f f f f f f . 
+. . . f f 6 f f 6 f 6 f f 6 f . 
+. . . f f 6 f f 6 f 6 f f 6 f . 
+. . . f f f f f f f f f f f f . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image1":
+            case "PebbleRight":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+f f . . f f f f f f f f f f f f 
+f 6 f . f 6 6 6 6 6 6 f 6 f 6 f 
+f 6 6 f f 6 6 6 2 6 6 6 6 6 6 f 
+. f 6 6 f 6 6 4 5 3 5 6 5 6 5 f 
+. . f 6 f 6 6 6 9 6 5 5 5 5 5 f 
+. . . f f f f f f f f f f f f f 
+. . . . . 6 6 . 6 6 . 6 6 . 6 6 
+. . . . . 6 6 . 6 6 . 6 6 . 6 6 
+. . . . . 6 6 . 6 6 . 6 6 . 6 6 
 . . . . . . . . . . . . . . . . 
 `;
             case "image4":

@@ -1,14 +1,4 @@
 {
-    "image1": {
-        "data": "hwQQABAAAAAAAP8PAAAAAAAAb/YAAAAAAADwZg8AAAAAAABv9gAAAAAA////AAAAAABvZvZmBgAAAG9m9mYGAAAAb0b2AAAAAABvUvlmBgAAAG829mYGAAAAb1b1AAAAAAD/ZvVmBgAAAG9W9WYGAAAA/2b1AAAAAABvVvVmBgAAAP///2YGAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "Pebble"
-    },
-    "image3": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAD///8PAAAAAG9mZg8AAAAAb2Zm////DwD///9v9v8P/29mZmb2Zg9vb/ZWZfb/D29vZmZl9v8Pb29mVmX2Zg9vb2ZmZfb/D29v9lZl9mYP/29mZmb2/w8A////b/b/DwBvZmb//2YPAG9mZg/w/w8A////DwAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "Pebble1"
-    },
     "image2": {
         "data": "hwQQABAAAAAAAP///2YGAAAAb1b1ZgYAAAD/ZvUAAAAAAG9W9WYGAAAA/2b1ZgYAAABvVvUAAAAAAG829mYGAAAAb1L5ZgYAAABvRvYAAAAAAG9m9mYGAAAAb2b2ZgYAAAD///8AAAAAAABv9gAAAAAA8GYPAAAAAABv9gAAAAAAAP8PAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -18,6 +8,16 @@
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAPD//yUGAAAA8Gb2PwAAAADw///v//8PAABvZkb2Zg8A/29mhvb/DwBvb29V9v8PAG9vZlb2Zg8Ab29mVfb/DwBvb29W9v8PAP9vZlX2Zg8AAG9mNvb/DwDw//9P//8PAPBm9rf6Zg8A8P//APD/Dw==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Pebble 3"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAD///8PAAAAAG9mZg8AAAAAb2Zm////DwD///9v9v8P/29mZmb2Zg9vb/ZWZfb/D29vZmZl9v8Pb29mVmX2Zg9vb2ZmZfb/D29v9lZl9mYP/29mZmb2/w8A////b/b/DwBvZmb//2YPAG9mZg/w/w8A////DwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PebbleIdle"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAD/DwAAAAAAAG/2AAAAAAAA8GYPAAAAAAAAb/YAAAAAAP///wAAAAAAb2b2ZgYAAABvZvZmBgAAAG9G9gAAAAAAb1L5ZgYAAABvNvZmBgAAAG9W9QAAAAAA/2b1ZgYAAABvVvVmBgAAAP9m9QAAAAAAb1b1ZgYAAAD///9mBg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PebbleRight"
     },
     "image4": {
         "data": "hwQQABAAAAAAAJCZCQCZAP//D5kAmZAJb2YPAAAAAJn/////////CW9mZmb2ZvYAb2ZmZvb//wBv9mZV9v//AG9mZlb2ZvYAb2ZmVfb//wBvZmZW9v//mW/2ZlX2ZvaZb2ZmZvb//wBvZmZm9mb2Cf////////+Zb2YPkJAACQD//w+QmQCZCQ==",
